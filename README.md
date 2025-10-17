@@ -48,13 +48,18 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test and Load Test and output
-<img width="636" height="1020" alt="image" src="https://github.com/user-attachments/assets/bf82d309-83f9-4661-ad45-3abe22762c01" />
-<img width="1285" height="1006" alt="image" src="https://github.com/user-attachments/assets/9362b3ba-6d03-4b39-b090-a81bf05d6b80" />
-<img width="1307" height="1016" alt="image" src="https://github.com/user-attachments/assets/8f90461b-c593-4553-a559-a57b988a77e0" />
-<img width="1045" height="604" alt="image" src="https://github.com/user-attachments/assets/7ea58625-4b73-4888-842b-e2a55ee90322" />
-<img width="1045" height="311" alt="image" src="https://github.com/user-attachments/assets/af9faa8b-5487-451e-8368-acc6f5f73914" />
-<img width="1044" height="474" alt="image" src="https://github.com/user-attachments/assets/cc051de4-0d4c-42a4-9bf6-9bf3e0685d1a" />
-<img width="1033" height="323" alt="image" src="https://github.com/user-attachments/assets/e3cb103c-94e5-4a14-87b5-dbd012e9d641" />
+<img width="817" height="242" alt="image" src="https://github.com/user-attachments/assets/511e4b1c-b2a2-4e4d-869f-58b782703888" />
+<img width="894" height="274" alt="image" src="https://github.com/user-attachments/assets/0fd22864-8d54-407b-85de-59ac5663d0a7" />
+<img width="716" height="472" alt="image" src="https://github.com/user-attachments/assets/12e5bcdc-f045-43a9-aec0-8d5b38364016" />
+## Load circuit
+<img width="723" height="359" alt="image" src="https://github.com/user-attachments/assets/0ca7da97-4179-4d6e-9c0b-c26052294c2c" />
+## Calculation
+<img width="867" height="812" alt="image" src="https://github.com/user-attachments/assets/13cb64dc-48e5-473e-94df-4a84736a8796" />
+## Load characteristics
+<img width="873" height="408" alt="image" src="https://github.com/user-attachments/assets/b4f18a68-ccb3-4914-9e8d-3b4e6f5c4667" />
+<img width="866" height="297" alt="image" src="https://github.com/user-attachments/assets/db26d219-0b6d-43c4-9be4-5902ebeccb43" />
+
+
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
